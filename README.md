@@ -1,1 +1,1 @@
-# BasicCalculator
+# BasicCalculator.This code creates an interactive calculator game where players solve random math problems. it consits of arthmetic operators fuctions such as addition, subtarcion, multiplicatin, division, modulus, and exponentiation. The game continues until the player types "exit." It keeps track of the score and provides feedback on answers. 
